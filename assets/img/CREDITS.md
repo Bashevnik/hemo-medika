@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — cottonbro studio
+- rooms/ct.jpg — MART  PRODUCTION
+- rooms/mri.jpg — MART  PRODUCTION
+- rooms/xray.jpg — cottonbro studio
+- rooms/read.jpg — Anna Shvets
+- rooms/uzd.jpg — MART  PRODUCTION
+- rooms/dental.jpg — cottonbro studio
+- infra/interior.jpg — Andre
+- infra/detail.jpg — MART  PRODUCTION
+- infra/doc.jpg — Daniil Kondrashin
